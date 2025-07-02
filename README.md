@@ -59,6 +59,6 @@ The courses overall, provide a framework for the leaner to get accustomed to the
 -----
 **Author:**
 
-**-Kaushik.**
+**-Kaushik Chakram.**
 
 ------
