@@ -8,6 +8,8 @@ This repository consists of the materials and my project submissions for the `IB
 
 ## The courses were successfully completed and the certificate can be found on **Credly (by Pearson)** on this **&rarr;** **[link](https://www.credly.com/badges/43179e45-2ec0-4418-a0af-697fbfb58ee9)** for verification purposes.
 
+----
+
 ### The course material order is as follows:
 
 **Note: Course 1 (What is Data Science?) and Course 12 (Career guide...) did not consist of any big lab materials so they are not included in this repository.**
@@ -29,6 +31,8 @@ This repository consists of the materials and my project submissions for the `IB
 **The course number and the folders are numbered correspondingly, so you can use that to navigate to the specific course folders.**
 
 The courses overall, provide a framework for the leaner to get accustomed to the concepts and workflows of a Data Scientist. Once accustomed to these concepts, the learner can then apply these skills to a Research/Business Question. Courses 1-9 essentially introduces the learner to these concepts, eventually culminating to **Course 10** `Applied Data Science Capstone` wherein all the skills are tested on a project about SpaceX.
+
+----
 
 <table>
   
@@ -57,6 +61,15 @@ The courses overall, provide a framework for the leaner to get accustomed to the
 </td></tr> </table>
 
 -----
+
+## Credit:
+
+**Note: For all these notebooks the prelimnary code and notebook setup are pre-written by the course providers (IBM | Coursera).**
+
+**- I (i.e. the learner) answer and write code for the lab/project questions with the appropriate answers to complete all the assignments.**
+
+-----
+
 **Author:**
 
 **-Kaushik Chakram.**
