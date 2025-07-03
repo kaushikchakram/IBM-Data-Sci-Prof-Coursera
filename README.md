@@ -64,7 +64,7 @@ The courses overall, provide a framework for the leaner to get accustomed to the
 
 ## Credit:
 
-**Note: For all these notebooks the prelimnary code and notebook setup are pre-written by the course providers (IBM | Coursera).**
+**Note: For all the notebooks the prelimnary code and the notebook setup is pre-written by the course providers (IBM | Coursera).**
 
 **- I (i.e. the learner) answer and write code for the lab/project questions with the appropriate answers to complete all the assignments.**
 
