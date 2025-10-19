@@ -4,7 +4,7 @@
 
 This repository consists of the materials and my project submissions for the `IBM Data Science Professional (v3) Certificate course on Coursera`.
 
-**Context: This coursera course called `IBM Data Science Professional (v3) Certificate` consists of 12 courses. Upon successful completion of all the 12 courses one recieves the certificate.**
+**Context: This coursera course called `IBM Data Science Professional (v3) Certificate` consists of 12 courses. Upon successful completion of all the 12 courses one receives the certificate.**
 
 ## The courses were successfully completed and the certificate can be found on **Credly (by Pearson)** on this **&rarr;** **[link](https://www.credly.com/badges/43179e45-2ec0-4418-a0af-697fbfb58ee9)** for verification purposes.
 
@@ -30,7 +30,7 @@ This repository consists of the materials and my project submissions for the `IB
 
 **The course number and the folders are numbered correspondingly, so you can use that to navigate to the specific course folders.**
 
-The courses overall, provide a framework for the leaner to get accustomed to the concepts and workflows of a Data Scientist. Once accustomed to these concepts, the learner can then apply these skills to a Research/Business Question. Courses 1-9 essentially introduces the learner to these concepts, eventually culminating to **Course 10** `Applied Data Science Capstone` wherein all the skills are tested on a project about SpaceX.
+The courses overall, provide a framework for the learner to get accustomed to the concepts and workflows of a Data Scientist. Once accustomed to these concepts, the learner can then apply these skills to a Research/Business Question. Courses 1-9 essentially introduces the learner to these concepts, eventually culminating to **Course 10** `Applied Data Science Capstone` wherein all the skills are tested on a project about SpaceX.
 
 ----
 
@@ -64,7 +64,7 @@ The courses overall, provide a framework for the leaner to get accustomed to the
 
 ## Credit:
 
-**Note: For all the notebooks the prelimnary code and the notebook setup is pre-written by the course providers (IBM | Coursera).**
+**Note: For all the notebooks the preliminary code and the notebook setup is pre-written by the course providers (IBM | Coursera).**
 
 **- I (i.e. the learner) answer and write code for the lab/project questions with the appropriate answers to complete all the assignments.**
 
